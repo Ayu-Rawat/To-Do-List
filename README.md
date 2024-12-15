@@ -26,6 +26,12 @@ A simple, user-friendly To-Do List application that allows users to manage their
    ```bash
    cd To-Do-List
    ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+4. **Start the application:**
+   ```bash
+   npm start
 
 ## Application Workflow
 
